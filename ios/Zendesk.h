@@ -2,6 +2,6 @@
 #import <UIKit/UIKit.h>
 #import <React/RCTBridgeModule.h>
 
-@interface RNZendeskChat : NSObject<RCTBridgeModule>
+@interface Zendesk : NSObject<RCTBridgeModule>
 
 @end

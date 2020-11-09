@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNZendeskChat } = NativeModules;
+const { Zendesk } = NativeModules;
 
-export default RNZendeskChat;
+export default Zendesk;
